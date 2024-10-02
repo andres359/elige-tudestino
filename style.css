@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap');
+button{
+    height: 100px;
+    width: 60px;
+    color: rgb(32, 10, 52);
+    background-color: chartreuse;
+
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+    color: crimson;
+    
+}
+#suspenso{
+    text-align: end;
+}
+p{
+  
+}
